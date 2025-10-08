@@ -1,7 +1,7 @@
 # local
 
 Hi, My self Siya Kumari.
-<br>
-skills:
+
+Skills:
  java 
  python
